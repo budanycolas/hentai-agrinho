@@ -1,0 +1,24 @@
+/* Resetando margens e espaçamentos */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo do cabeçalho */
+header {
+    background-color: thistle;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+/* Estilo da seção */
+section {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white; /* Cor do texto branca */
+    margin: 10px 0; /* Margem de 10px em cima e em baixo */
+    padding: 10px 20px; /* Espaçamento interno de 10px em cima e em baixo, e 20px dos lados */
+}
