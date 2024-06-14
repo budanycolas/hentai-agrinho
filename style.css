@@ -26,3 +26,10 @@ section {
 div{
     padding: 30px;
 }
+
+@media screen and (min-width:1024px) {
+    header{
+        background-color: brown;
+    }
+}
+    
