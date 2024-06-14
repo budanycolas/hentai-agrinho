@@ -22,3 +22,7 @@ section {
     margin: 10px 0; /* Margem de 10px em cima e em baixo */
     padding: 10px 20px; /* Espaçamento interno de 10px em cima e em baixo, e 20px dos lados */
 }
+
+div{
+    padding: 30px;
+}
